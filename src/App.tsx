@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo"/>
         <p>
-          Здесь будет Timer Риты v2
+          Здесь будет Timer Риты v3
         </p>
         <a
             className="App-link"
